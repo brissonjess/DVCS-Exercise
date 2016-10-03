@@ -11,6 +11,7 @@
     <div>
         <h1>Page 2</h1>
         <p>Opening paragraph text goes here. </p>
+        <blockquote>Quotes go here.</blockquote>
     
     </div>
     </form>
