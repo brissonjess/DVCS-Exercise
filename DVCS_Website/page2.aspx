@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
+            <h1>Page 2</h1>
     
     </div>
     </form>
