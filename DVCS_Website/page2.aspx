@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-            <h1>Page 2</h1>
+        <h1>Page 2</h1>
+        <p>Opening paragraph text goes here. </p>
     
     </div>
     </form>
